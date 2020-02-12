@@ -1,2 +1,2 @@
 # Java
-Programs from completed courses
+Programs from completed Data Structures Course
