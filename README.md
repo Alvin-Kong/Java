@@ -1,2 +1,2 @@
 # Java
-Programs from taken courses
+Programs from completed courses
